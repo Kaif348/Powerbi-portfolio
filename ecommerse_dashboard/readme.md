@@ -47,7 +47,7 @@ The goal of this project was to transform 9 raw CSV files into a fully interacti
 
 ---
 
-## 📊 Dashboard Pages
+## Dashboard Pages
 
 ### Page 1 — Executive Overview
 High-level KPIs and platform-wide performance metrics for business stakeholders.
