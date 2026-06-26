@@ -332,7 +332,7 @@ SWITCH(
 
 ---
 
-## 💡 Key Business Insights
+## Key Business Insights
 
 ### 1. Extraordinary Platform Growth
 Olist grew from **329 orders in Q4 2016** to **54,011 orders in 2018** — a 180x increase in just over 2 years. Note: 2016 data represents only September-December, so YoY comparisons require careful interpretation.
@@ -389,7 +389,7 @@ olist-ecommerce-dashboard/
 
 ---
 
-## 🚀 How to Use This Dashboard
+## How to Use This Dashboard
 
 1. Download the dataset from [Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) or from Dataset folder of this repository.
 2. Extract all 9 CSV files
@@ -400,7 +400,7 @@ olist-ecommerce-dashboard/
 
 ---
 
-## 📸 Dashboard Screenshots
+## Dashboard Screenshots
 Screenshots of all pages of the power bi dashboard are uploaded to this repo in screenshots folders.
 
 ---
