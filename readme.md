@@ -34,6 +34,7 @@ Each project folder contains:
 ## Let's Connect
 
 linkedin.com/in/kaifulwara19
+
 kaifulwara348@gmail.com 
 
 ---
