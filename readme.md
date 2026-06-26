@@ -2,7 +2,7 @@
 
 > Transforming raw data into actionable business insights through interactive dashboards and visual storytelling.
 
-I'm Kaif — an aspiring BI Developer building this portfolio to demonstrate 
+I'm Kaif, an aspiring BI Developer building this portfolio to demonstrate 
 my ability to take messy, real-world datasets and turn them into clean, 
 decision-ready dashboards. Every project here starts with a business problem 
 and ends with a story the data is telling.
@@ -31,10 +31,10 @@ Each project folder contains:
 - The raw dataset used
 
 
-## 📬 Let's Connect
+## Let's Connect
 
-💼 [LinkedIn](https://linkedin.com/in/yourprofile)  
-📧 your@email.com  
+linkedin.com/in/kaifulwara19
+kaifulwara348@gmail.com 
 
 ---
 
