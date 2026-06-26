@@ -1,4 +1,4 @@
-# 📊 Power BI Portfolio
+# Power BI Portfolio
 
 > Transforming raw data into actionable business insights through interactive dashboards and visual storytelling.
 
