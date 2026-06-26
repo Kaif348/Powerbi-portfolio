@@ -33,7 +33,7 @@ Each project folder contains:
 
 ## Let's Connect
 
-LinkedIn: linkedin.com/in/kaifulwara19
+LinkedIn: https://linkedin.com/in/kaifulwara19
 Email: kaifulwara348@gmail.com 
 
 ---
